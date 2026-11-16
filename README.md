@@ -20,7 +20,7 @@ nginx serves the built frontend and proxies `/api` to the server, so the browser
 
 ## Running locally
 
-Requires Node.js 22+.
+Requires Node.js 24 (LTS), its what the docker images use but I'm on Node 26 and it works as well
 
 **Server** (http://localhost:3000)
 
